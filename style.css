@@ -33,7 +33,7 @@ main {
     margin-right: auto;
 }
 
-.Valentin h2, .Dana, .Denys{
+.Valentin h2, .Dana h2, .Denys h2{
     font-size: 24px;
     margin-bottom: 10px;
     color: rgb(89, 92, 147);

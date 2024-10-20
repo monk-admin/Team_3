@@ -21,7 +21,7 @@ main {
     text-align: center;
     background-color: #e3f0f1;
 }
-.Valentin, .Dana, .Denys{
+.Valentin, .Dana, .Denys, .Kira{
     margin-top: 20px;
     background-color: #b2e4e5;
     padding: 20px;
@@ -33,12 +33,12 @@ main {
     margin-right: auto;
 }
 
-.Valentin h2, .Dana h2, .Denys h2{
+.Valentin h2, .Dana h2, .Denys h2, .Kira h2{
     font-size: 24px;
     margin-bottom: 10px;
     color: rgb(89, 92, 147);
 }
-.Valentin p, .Dana p, .Denys p{
+.Valentin p, .Dana p, .Denys p, .Kira p{
     font-size: 18px;
     line-height: 1.6;
 }

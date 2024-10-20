@@ -21,7 +21,7 @@ main {
     text-align: center;
     background-color: #e3f0f1;
 }
-.Valentin{
+.Valentin, .Dana{
     margin-top: 20px;
     background-color: #b2e4e5;
     padding: 20px;
@@ -33,12 +33,12 @@ main {
     margin-right: auto;
 }
 
-.Valentin h2{
+.Valentin h2, .Dana{
     font-size: 24px;
     margin-bottom: 10px;
     color: rgb(89, 92, 147);
 }
-.Valentin p{
+.Valentin p, .Dana p{
     font-size: 18px;
     line-height: 1.6;
 }
